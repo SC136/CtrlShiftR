@@ -1,0 +1,53 @@
+{
+  "class_names": [
+    "Pepper__bell___Bacterial_spot",
+    "Pepper__bell___healthy",
+    "Potato___Early_blight",
+    "Potato___Late_blight",
+    "Potato___healthy",
+    "Tomato_Bacterial_spot",
+    "Tomato_Early_blight",
+    "Tomato_Late_blight",
+    "Tomato_Leaf_Mold",
+    "Tomato_Septoria_leaf_spot",
+    "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "Tomato__Target_Spot",
+    "Tomato__Tomato_YellowLeaf__Curl_Virus",
+    "Tomato__Tomato_mosaic_virus",
+    "Tomato_healthy"
+  ],
+  "idx_to_crop": {
+    "0": "Pepper__bell",
+    "1": "Pepper__bell",
+    "2": "Potato",
+    "3": "Potato",
+    "4": "Potato",
+    "5": "Tomato_Bacterial_spot",
+    "6": "Tomato_Early_blight",
+    "7": "Tomato_Late_blight",
+    "8": "Tomato_Leaf_Mold",
+    "9": "Tomato_Septoria_leaf_spot",
+    "10": "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "11": "Tomato__Target_Spot",
+    "12": "Tomato__Tomato_YellowLeaf__Curl_Virus",
+    "13": "Tomato__Tomato_mosaic_virus",
+    "14": "Tomato_healthy"
+  },
+  "idx_to_issue": {
+    "0": "Bacterial Spot",
+    "1": "Healthy",
+    "2": "Early Blight",
+    "3": "Late Blight",
+    "4": "Healthy",
+    "5": "Unknown",
+    "6": "Unknown",
+    "7": "Unknown",
+    "8": "Unknown",
+    "9": "Unknown",
+    "10": "Unknown",
+    "11": "Unknown",
+    "12": "Unknown",
+    "13": "Unknown",
+    "14": "Unknown"
+  }
+}

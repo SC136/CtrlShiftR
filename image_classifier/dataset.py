@@ -138,7 +138,7 @@ def create_data_loaders(
     train_split: float = 0.7,
     val_split: float = 0.15,
     test_split: float = 0.15,
-    num_workers: int = 4
+    num_workers: int = 0  # Changed default to 0 for Windows compatibility
 ) -> Tuple[DataLoader, DataLoader, DataLoader, List[str]]:
     """
     Create train, validation, and test data loaders.
